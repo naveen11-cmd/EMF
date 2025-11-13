@@ -3,6 +3,7 @@
 ## 1. Introduction
 
 The Smith Chart is a fundamental graphical tool used in RF and microwave engineering to solve transmission-line problems involving impedance, reflection, and wave behavior. It simplifies complex mathematical expressions and provides an intuitive method to analyze SWR, reflection coefficient (K), and input impedance (Zin).
+<img width="736" height="650" alt="image" src="https://github.com/user-attachments/assets/84034064-1885-4852-9d7a-0d454ad4de2a" />
 
 ## 2. Background
 
@@ -23,6 +24,8 @@ A perfect match has an SWR of 1, meaning no reflections occur.
 On the Smith Chart, SWR is easily determined by locating the load point and identifying the SWR circle that passes through it. This eliminates the need for manual calculations.
 
 SWR is a key performance indicator in RF systems because high SWR values reduce transmission efficiency, increase losses, and may cause overheating or failure of components.
+<img width="1154" height="537" alt="image" src="https://github.com/user-attachments/assets/e216cf15-c3d0-485a-b6ac-8c970916d7b8" /><img width="1154" height="537" alt="image" src="https://github.com/user-attachments/assets/42e6286f-8650-41ac-aa1c-ae0d3f0b0ca8" />
+
 
 ## 4. Reflection Coefficient (K)
 
@@ -35,6 +38,7 @@ This graphical method makes analysis faster and prevents calculation errors duri
 A low reflection coefficient indicates good matching, while a high value suggests major mismatch and potential distortion in RF circuits.
 
 Engineers rely on this parameter to assess the reliability of wireless communication links and determine necessary corrective actions.
+<img width="766" height="399" alt="image" src="https://github.com/user-attachments/assets/79c018df-92db-468d-93ba-a8e12fbe5344" />
 
 ## 5. Input Impedance (Zin)
 
@@ -45,6 +49,7 @@ By rotating the plotted load impedance along the wavelength scale toward the gen
 This feature is highly useful when designing matching networks or optimizing high-frequency circuit performance.
 
 Input impedance analysis is critical for antenna feeds, RF amplifiers, and microwave networks, where precision directly impacts system performance.
+<img width="762" height="418" alt="image" src="https://github.com/user-attachments/assets/9154415d-f2f2-4213-81df-9905937285eb" />
 
 ## 6. Real-Time Example
 
