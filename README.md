@@ -64,7 +64,7 @@ To achieve proper impedance matching, engineers rotate the plotted point along t
 The result is improved signal strength, higher data throughput, and increased coverage area in real-world 5G applications.
 <img width="766" height="932" alt="image" src="https://github.com/user-attachments/assets/ac08d652-1d2f-4900-b995-304fdec8a1a4" />
 
-##7.Example sums
+## 7. Example sums
 <img width="572" height="783" alt="image" src="https://github.com/user-attachments/assets/cc4f184f-fef8-49f2-ae40-6f894e4934ba" />
 
 
