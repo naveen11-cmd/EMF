@@ -24,7 +24,7 @@ A perfect match has an SWR of 1, meaning no reflections occur.
 On the Smith Chart, SWR is easily determined by locating the load point and identifying the SWR circle that passes through it. This eliminates the need for manual calculations.
 
 SWR is a key performance indicator in RF systems because high SWR values reduce transmission efficiency, increase losses, and may cause overheating or failure of components.
-<img width="1154" height="537" alt="image" src="https://github.com/user-attachments/assets/e216cf15-c3d0-485a-b6ac-8c970916d7b8" /><img width="1154" height="537" alt="image" src="https://github.com/user-attachments/assets/42e6286f-8650-41ac-aa1c-ae0d3f0b0ca8" />
+<img width="1154" height="537" alt="image" src="https://github.com/user-attachments/assets/e216cf15-c3d0-485a-b6ac-8c970916d7b8" />
 
 
 ## 4. Reflection Coefficient (K)
@@ -62,6 +62,8 @@ The SWR circle shows the severity of mismatch, and the reflection coefficient is
 To achieve proper impedance matching, engineers rotate the plotted point along the wavelength scale until the desired location is reached. This helps identify the exact point where components such as capacitors or inductors should be added to achieve efficient matching.
 
 The result is improved signal strength, higher data throughput, and increased coverage area in real-world 5G applications.
+<img width="766" height="931" alt="image" src="https://github.com/user-attachments/assets/e925e90b-28bb-43f6-89e9-373d35d28417" />
+
 
 ## 7. Conclusion
 
