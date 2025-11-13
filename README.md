@@ -62,7 +62,8 @@ The SWR circle shows the severity of mismatch, and the reflection coefficient is
 To achieve proper impedance matching, engineers rotate the plotted point along the wavelength scale until the desired location is reached. This helps identify the exact point where components such as capacitors or inductors should be added to achieve efficient matching.
 
 The result is improved signal strength, higher data throughput, and increased coverage area in real-world 5G applications.
-<img width="766" height="931" alt="image" src="https://github.com/user-attachments/assets/e925e90b-28bb-43f6-89e9-373d35d28417" />
+<img width="766" height="932" alt="image" src="https://github.com/user-attachments/assets/ac08d652-1d2f-4900-b995-304fdec8a1a4" />
+
 
 
 ## 7. Conclusion
